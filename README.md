@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tuchi353
 - 👀 I’m interested in animal health and science 
 - 🌱 I’m currently learning doctorate in animal science 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mentoring a student on the field
 - 📫 How to reach me via email 
 
 <!---
